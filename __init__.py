@@ -1,0 +1,1 @@
+from entradas import lista_random
